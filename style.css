@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#data{
+height: 150px;
+margin: 30px;
+background-color: antiquewhite;
+padding: 20px;
+}
+#new{
+  padding: 10px;
+  margin-left: 45%;
+  background-color: aqua;
+  border-radius: 10px;
+}
